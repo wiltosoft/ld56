@@ -1,0 +1,24 @@
+[submodule "modules/SDL2"]
+	path = modules/SDL2
+	url = https://github.com/libsdl-org/SDL.git
+[submodule "modules/stb"]
+	path = modules/stb
+	url = https://github.com/nothings/stb.git
+[submodule "modules/freetype"]
+	path = modules/freetype
+	url = https://github.com/freetype/freetype.git
+[submodule "modules/bullet3"]
+	path = modules/bullet3
+	url = https://github.com/bulletphysics/bullet3.git
+[submodule "modules/dawn"]
+	path = modules/dawn
+	url = https://github.com/google/dawn.git
+[submodule "modules/tinyobjloader"]
+	path = modules/tinyobjloader
+	url = https://github.com/tinyobjloader/tinyobjloader.git
+[submodule "modules/vectormath"]
+	path = modules/vectormath
+	url = https://github.com/glampert/vectormath.git
+[submodule "modules/minivorbis"]
+	path = modules/minivorbis
+	url = https://github.com/edubart/minivorbis.git
